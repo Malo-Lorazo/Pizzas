@@ -1,11 +1,34 @@
-#maxi readme pour la formation git#
-Pizza tout ca
-Je test un truc la, moi aussi les conflits 
-ICI ON ACCEPTE QUE LE VEGE LES LOOSER (il veut quoi l'homme soja) 
-###listes des pizzas
-Trois recettes présentes 
-Margherita 
-Regina (la best)
-miamMiam (ma pizza perso)
-1000 fromages
-pizza moza aussi avec du jambon sec et une buffala c'est bon ça la dernière fois au restau à Niort j'avais pris ça avec de la crème de basilic c'était super bon genre meilleure pizza que j'ai mangé de ma vie je me rappelle plus l'adresse 
+# 🍕 Maxi README pour la formation Git
+
+Bienvenue dans ce petit projet d’initiation à Git, version pizza deluxe. Ici, on apprend en s’amusant (et en mangeant, potentiellement).
+
+---
+
+## 😋 Pizza, tout ça…
+
+Je teste un truc là, moi aussi les conflits.  
+**ICI ON ACCEPTE QUE LE VÉGÉ — LES LOOSERS.**
+
+---
+
+## 📜 Liste des pizzas
+
+Trois recettes présentes :
+
+1. **Margherita**  
+   La classique, sauce tomate & mozzarella, rien de plus.
+
+2. **Regina** *(la best)*  
+   Jambon, champignons, mozzarella – indétrônable.
+
+3. **miamMiam** *(ma pizza perso)*  
+   Sauce secrète, amour, et un petit quelque chose en plus.
+
+4. **4 fromages**  
+   Pour les vrais fans de lactose : mozzarella, gorgonzola, emmental, parmesan.
+
+---
+
+Bon app’ et bon `git merge` 🍕
+
+
