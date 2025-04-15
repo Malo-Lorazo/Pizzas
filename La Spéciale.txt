@@ -1,7 +1,0 @@
-#Spéciale Laureu
-
-__Base : crème
-__Ingrédients :
--Boursin
--Miel
--Avocat

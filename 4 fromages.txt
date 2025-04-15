@@ -1,8 +1,0 @@
-Pizza 4 fromages
-
-__Base : crème
-__Ingrédients :
--Bleu
--Chèvre
--Mozzarella
--Gruyère
