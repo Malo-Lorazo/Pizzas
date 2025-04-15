@@ -9,3 +9,5 @@ Regina (la best)
 miamMiam (ma pizza perso)
 4 fromages
 La Spéciale
+pizza aux cailloux
+pizza aux poils de barbe de Malo 
