@@ -1,5 +1,7 @@
 Recette de la nouvelle Pizza
 
-Chèvre 
-Miel
-Noix
+__Base : crème
+__Ingrédients :
+-Chèvre 
+-Miel
+-Noix
