@@ -1,9 +1,11 @@
-#recette regina la meilleure" 
-miam miam la regina 
+#recette regina la meilleure / pas vraiment la meilleure mais trkl  
+miam miam la regina Je vous aime eheh 
 Jambon 
-Champignon 
-Base tomate 
-gruyère
+Champignons  
+Base à la tomate 
+gruyères
+cornichon
+
 
 #peu mieux faire
 
