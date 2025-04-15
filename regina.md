@@ -1,5 +1,11 @@
-#recette regina la meilleure" 
-miam miam la regina 
-Jambon Végé looser
-Champignon 
-Base tomate 
+#recette regina la meilleure / pas vraiment la meilleure mais trkl  
+miam miam la regina Je vous aime eheh 
+
+__Base : tomate
+__Ingrédients :
+-Jambon 
+-Champignons   
+-Gruyères
+-Cornichon
+
+
