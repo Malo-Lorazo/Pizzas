@@ -1,7 +1,5 @@
 #recette regina la meilleure" 
 miam miam la regina 
-Jambon 
+Jambon Végé looser
 Champignon 
 Base tomate 
-gruyère
-
