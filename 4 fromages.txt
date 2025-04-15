@@ -1,7 +1,8 @@
 Pizza 4 fromages
 
--base crème
--bleu
--chèvre
--mozzarella
--gruyère
+__Base : crème
+__Ingrédients :
+-Bleu
+-Chèvre
+-Mozzarella
+-Gruyère
